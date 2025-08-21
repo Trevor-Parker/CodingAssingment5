@@ -10,14 +10,12 @@
   display: block;
 }
 
-/*
-unsure why these dont work
 #ingredients,
 #equipment,
 #directions {
   width:33.33%
 }
-*/
+
 
 #header {
   color: #850d0d;
