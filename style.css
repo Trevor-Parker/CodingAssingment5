@@ -6,7 +6,6 @@ div {
 }
 [class*="col"]  {
       float: left;
-    /*  padding:15px; */
     }
 .row::after{
   content:"";
@@ -19,27 +18,28 @@ span {
   box-sizing: border-box;
 }
 
-#header{
+#header {
   color: whitesmoke;
   text-align: center;
   font-weight: bold;
+  background-color: #850d0d; /* example color */
+  border: 2px solid black;
+  padding: 20px;
   width: 100%;
-  box-sizing: border-box;
 }
 
 #footer{
   text-align:right;
   font-style:italic;
-  font-color: #262626;
+  color: #262626;
   width:100%;
   box-sizing: border-box;
 }
   
 .container {
-  font-family: "TImes New Roman": serif;
+  font-family: "Times New Roman": serif;
 }
 
-}
 body {
   background-color: #303030;
   font-family: "Noto Sans", sans-serif;
