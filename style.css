@@ -14,31 +14,27 @@ div {
   display: block;
 }
 
-span {
-  display: block;
-  box-sizing: border-box;
-}
-
 #header{
   background-color: #850d0d;
   color: whitesmoke;
   text-align: center;
   font-weight: bold;
+  width: 100%;
+  box-sizing: border-box;
 }
 
 #footer{
   text-align:right;
   font-style:italic;
   font-color: #262626;
+  width:100%;
+  box-sizing: border-box;
+}
   
 .container {
   font-family: "TImes New Roman": serif;
 }
 
-/*main {
-
-}
-*/
 }
 body {
   background-color: #303030;
