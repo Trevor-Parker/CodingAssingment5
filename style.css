@@ -14,6 +14,11 @@ div {
   display: block;
 }
 
+span {
+  display: block;
+  box-sizing: border-box;
+}
+
 #header{
   background-color: #850d0d;
   color: whitesmoke;
