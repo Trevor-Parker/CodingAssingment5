@@ -14,14 +14,25 @@ div {
   display: block;
 }
 
-.container {
-  font-family: "TImes New Roman": serif;
+span {
+  display: block;
+  box-sizing: border-box;
 }
 
-header {  
+#header{
   background-color: #850d0d;
   color: whitesmoke;
   text-align: center;
+  font-weight: bold;
+}
+
+#footer{
+  text-align:right;
+  font-style:italic;
+  font-color: #262626;
+  
+.container {
+  font-family: "TImes New Roman": serif;
 }
 
 /*main {
