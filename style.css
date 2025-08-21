@@ -10,9 +10,10 @@
   display: block;
 }
 
-span {
-  display: block;
-  box-sizing: border-box;
+#ingredients,
+#equipment,
+#directions {
+  width:33.33%
 }
 
 #header {
