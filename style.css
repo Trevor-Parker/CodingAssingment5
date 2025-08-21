@@ -13,34 +13,9 @@ div {
   clear: both;
   display: block;
 }
-<body>
-<div class= "container-fluid">
-  <div class="row">
-    <div class="col" style=width:100%>Header</div>
-  </div>
 
-  <div class="row"> 
-    <div class="col" style="width:33%>Links</div>
-    <div class="col" style="width:33%>Main</div>
-    <div class="col" style="width:33%>Rate / Convert</div>
-  </div>
-
-  <div class="row"> 
-    <div class="col" style="width:33%>Ingred</div>
-    <div class="col" style="width:33%>Equip</div>
-    <div class="col" style="width:33%>Directions</div>
-  </div>
-
-  <div class="row"> 
-    <div class="col" style="width:33%>Footer</div>
-  </div>
-</div>
-</body>
-/* .container {
-  font-family: "Noto": sans-serif;
-  display: grid;
-  grid-template-columns: 1fr 3fr;
-  gap: 20px;
+.container {
+  font-family: "TImes New Roman": serif;
 }
 
 header {  
@@ -106,4 +81,4 @@ input {
 .rate {
   color: #850d0d;
   text-shadow: 5px 5px 5px #410606;
-} */
+}
